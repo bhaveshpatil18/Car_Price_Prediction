@@ -16,6 +16,9 @@ Further, the model will be a good way for management to understand the pricing d
 The solution is divided into the following sections:
 
 Data understanding and exploration
+
 Data cleaning
+
 Data preparation
+
 Model building and evaluation
